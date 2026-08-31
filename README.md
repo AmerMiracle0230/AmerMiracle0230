@@ -1,26 +1,22 @@
-# 👋 Hola, soy Juan José
+# 👋 Hola, soy Juan Parhuayo
 
-<p align="center">
-  <img src="AQUI_TU_IMAGEN_DE_PORTADA" alt="Banner">
-</p>
-
-<p align="center">
-  🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)  
-  <br>
-  💻 Java · Spring Boot · Kotlin  
-  <br>
-  🚀 Aprendiendo, practicando y creando proyectos
-</p>
+🎓 Graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
+💻 **Java · Spring Boot · Kotlin · C#**
+🗄️ **MySQL · PostgreSQL**
+🌐 **HTML · CSS · JavaScript**
+🚀 Actualmente reforzando mis conocimientos de desarrollo backend y frontend mediante proyectos prácticos.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-🎓 Soy **graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
+Soy graduado en DAM y actualmente estoy centrado en seguir mejorando mis conocimientos de programación mediante proyectos personales.
 
-Actualmente estoy reforzando mis conocimientos de **Java y Kotlin**, centrándome especialmente en **Java + Spring Boot** mediante proyectos personales.
+Mi principal enfoque ahora mismo es **Java y Spring Boot**, especialmente el desarrollo backend, APIs y bases de datos.
 
-También sigo practicando **Frontend** y **bases de datos** para continuar ampliando mis conocimientos como desarrollador.
+También sigo practicando **frontend**, y tengo experiencia trabajando con **Kotlin y C#** durante mi formación.
+
+🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
 
 ---
 
@@ -29,7 +25,7 @@ También sigo practicando **Frontend** y **bases de datos** para continuar ampli
 ### 💻 Desarrollo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,js" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kotlin,cs,js" />
 </p>
 
 ### 🌐 Frontend
@@ -56,7 +52,7 @@ También sigo practicando **Frontend** y **bases de datos** para continuar ampli
 
 ### 📋 Gestor de tareas
 
-Proyecto de práctica desarrollado con **Java + Spring Boot**, actualmente en desarrollo para reforzar mis conocimientos de backend.
+Proyecto personal actualmente en desarrollo para practicar **Java, Spring Boot y bases de datos**, reforzando mis conocimientos de backend.
 
 🔗 [Ver proyecto](AQUI_EL_LINK_DEL_REPOSITORIO)
 
@@ -65,11 +61,10 @@ Proyecto de práctica desarrollado con **Java + Spring Boot**, actualmente en de
 Proyecto desarrollado durante mi formación utilizando **Kotlin**.
 
 🔗 [Ver proyecto](https://github.com/AmerMiracle0230/GestorGastos)
-🔗 [Ver proyecto]
 
 ### 🤖 Discord Bot
 
-Proyecto realizado para practicar programación utilizando **JavaScript**.
+Proyecto realizado durante mi aprendizaje para practicar programación con **JavaScript**.
 
 🔗 [Ver proyecto](AQUI_EL_LINK_DEL_REPOSITORIO)
 
@@ -77,25 +72,23 @@ Proyecto realizado para practicar programación utilizando **JavaScript**.
 
 ## 🌱 Actualmente aprendiendo
 
-☕ **Java + Spring Boot**
-🌐 **HTML, CSS y JavaScript**
-🗄️ **PostgreSQL y MySQL**
-📱 **Kotlin**
+```text
+Java
+Spring Boot
+PostgreSQL
+HTML
+CSS
+JavaScript
+```
 
-> 🚀 Aprender → Practicar → Crear → Mejorar
+Actualmente estoy centrado especialmente en **Java + Spring Boot**, mientras sigo reforzando frontend y bases de datos.
 
 ---
 
 ## 📫 Contacto
 
-<p>
-  <a href="TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Contacto-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+💼 [LinkedIn](https://www.linkedin.com/in/juan-parhuayo/)
 
 ---
 
-<p align="center">
-  ⭐ Gracias por visitar mi perfil
-</p>
+⭐ Gracias por visitar mi perfil.
