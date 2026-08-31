@@ -1,4 +1,4 @@
-# 👋 Hola, soy Amer
+# 👋 Hola, soy Juan Jose
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=AMER&fontSize=70&fontAlignY=35&animation=twinkling"/>
