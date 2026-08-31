@@ -1,5 +1,20 @@
 # 👋 Hola, soy Juan Parhuayo
 
+<div align="center">
+
+# 👋 JUAN PARHUAYO
+
+### 💻 Java · Spring Boot · Backend
+
+```python
+answer = ask("Will you give me a job?")
+
+if answer == "YES":
+    print("Thank you for the opportunity! ❤️")
+else:
+    # Bueno... fue bonito mientras duró
+    delete_system32()
+
 🎓 Graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**
 💻 **Java · Spring Boot · Kotlin · C#**
 🗄️ **MySQL · PostgreSQL**
