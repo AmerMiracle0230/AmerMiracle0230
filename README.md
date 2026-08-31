@@ -64,7 +64,7 @@ Proyecto de práctica desarrollado con **Java + Spring Boot**, actualmente en de
 
 Proyecto desarrollado durante mi formación utilizando **Kotlin**.
 
-🔗 [Ver proyecto]([AQUI_EL_LINK_DEL_REPOSITORIO](https://github.com/AmerMiracle0230/GestorGastos)
+🔗 [Ver proyecto](https://github.com/AmerMiracle0230/GestorGastos)
 🔗 [Ver proyecto]
 
 ### 🤖 Discord Bot
