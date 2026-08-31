@@ -1,54 +1,100 @@
-👋 Hola, soy Juan José
-🧑‍💻 Sobre mí
+# 👋 Hola, soy Juan José
 
-🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM).
+<p align="center">
+  <img src="AQUI_TU_IMAGEN_DE_PORTADA" alt="Banner">
+</p>
 
-Actualmente estoy reforzando mis conocimientos de Java y Kotlin, y practicando especialmente con Java + Spring Boot mediante proyectos personales.
+<p align="center">
+  🎓 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)  
+  <br>
+  💻 Java · Spring Boot · Kotlin  
+  <br>
+  🚀 Aprendiendo, practicando y creando proyectos
+</p>
 
-También sigo mejorando mis conocimientos de Frontend y bases de datos.
+---
 
-🛠️ Tecnologías
-💻 Desarrollo
+## 🧑‍💻 Sobre mí
 
-Java · Kotlin · C# · JavaScript
+🎓 Soy **graduado en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
 
-🌐 Frontend
+Actualmente estoy reforzando mis conocimientos de **Java y Kotlin**, centrándome especialmente en **Java + Spring Boot** mediante proyectos personales.
 
-HTML · CSS · JavaScript
+También sigo practicando **Frontend** y **bases de datos** para continuar ampliando mis conocimientos como desarrollador.
 
-🗄️ Bases de datos
+---
 
-MySQL · PostgreSQL
+## 🛠️ Tecnologías
 
-🔧 Herramientas
+### 💻 Desarrollo
 
-Git · GitHub · IntelliJ IDEA · VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,js" />
+</p>
 
-🚀 Proyectos
-📋 Gestor de tareas
+### 🌐 Frontend
 
-Proyecto de práctica desarrollado actualmente con Java + Spring Boot, orientado a seguir mejorando mis conocimientos de backend.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-💰 Gestor de gastos
+### 🗄️ Bases de datos
 
-Proyecto desarrollado durante mi formación utilizando Kotlin.
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-🤖 Discord Bot
+### 🔧 Herramientas
 
-Proyecto realizado para practicar programación con JavaScript.
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>
 
-🌱 Actualmente aprendiendo
+---
 
-Actualmente estoy centrado principalmente en:
+## 🚀 Proyectos
 
-☕ Java
-🌱 Spring Boot
-🗄️ PostgreSQL
-🌐 HTML, CSS y JavaScript
-📱 Kotlin
+### 📋 Gestor de tareas
 
-🚀 Mi objetivo es seguir desarrollando proyectos y mejorar progresivamente mis habilidades como desarrollador.
+Proyecto de práctica desarrollado con **Java + Spring Boot**, actualmente en desarrollo para reforzar mis conocimientos de backend.
 
-📫 Contacto
+🔗 [Ver proyecto](AQUI_EL_LINK_DEL_REPOSITORIO)
 
-💼 LinkedIn: Mi LinkedIn
+### 💰 Gestor de gastos
+
+Proyecto desarrollado durante mi formación utilizando **Kotlin**.
+
+🔗 [Ver proyecto](AQUI_EL_LINK_DEL_REPOSITORIO)
+
+### 🤖 Discord Bot
+
+Proyecto realizado para practicar programación utilizando **JavaScript**.
+
+🔗 [Ver proyecto](AQUI_EL_LINK_DEL_REPOSITORIO)
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+☕ **Java + Spring Boot**
+🌐 **HTML, CSS y JavaScript**
+🗄️ **PostgreSQL y MySQL**
+📱 **Kotlin**
+
+> 🚀 Aprender → Practicar → Crear → Mejorar
+
+---
+
+## 📫 Contacto
+
+<p>
+  <a href="TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Contacto-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil
+</p>
