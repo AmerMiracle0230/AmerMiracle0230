@@ -1,32 +1,23 @@
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Parhuayo&fontSize=60&fontAlignY=40&desc=Desarrollador%20Multiplataforma&descAlignY=60" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a3e,200:2d2b55&height=300&section=header&text=Juan%20Parhuayo&fontSize=75&fontColor=6C63FF&desc=🎓%20Graduado%20en%20DAM%20%7C%20Desarrollador%20Backend&descSize=20&descColor=cccccc&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
 </p>
 
----
 
+  
+---
 ## 👨‍💻 Sobre mí
 
-<table border="0">
-  <tr>
-    <td width="70%" valign="top">
-
-🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br><br>
-
-Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.<br><br>
-
-También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.<br><br>
-
-🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
-
-</td>
-
-  <td width="30%" align="center" valign="middle">
-      <img src="3oibd39gysz21.gif" width="300" alt="Programando"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img align="right" src="3oibd39gysz21.gif" width="300" alt="Programando" style="margin-left: 20px;" />
+  
+  🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>
+  
+  Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.
+  
+  También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido <br> durante mi formación.
+  
+  🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+</p>
 
 ---
 
