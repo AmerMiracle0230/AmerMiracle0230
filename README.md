@@ -134,7 +134,7 @@ También sigo practicando <strong>frontend</strong>, bases de datos y otras tecn
 
 Proyecto personal en desarrollo para practicar Java, Spring Boot y bases de datos.
 
-🔗 [Ver repositorio](https://github.com/AmerMiracle0230/GestorTareas)
+🔗 [Ver repositorio](https://github.com/AmerMiracle0230/gestor-tareas)
 
 ---
 
