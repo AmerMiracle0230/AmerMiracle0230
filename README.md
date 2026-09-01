@@ -7,17 +7,27 @@
 ---
 ## 👨‍💻 Sobre mí
 
+<div style="background: #f8f9fa; padding: 25px; border-radius: 15px; border-left: 5px solid #6C63FF;">
+
 <p align="left">
-  <img align="right" src="3oibd39gysz21.gif" width="300" alt="Programando" style="margin-left: 20px;" />
+  <img align="right" src="3oibd39gysz21.gif" width="280" alt="Programando" style="margin-left: 30px; border-radius: 10px;" />
   
-  🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong>
+  <h3>🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong></h3>
   
-  Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.
+  <p style="font-size: 18px; line-height: 1.8;">
+    Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.
+  </p>
   
-  También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido <br> durante mi formación.
+  <p style="font-size: 18px; line-height: 1.8;">
+    También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.
+  </p>
   
-  🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+  <p style="font-size: 18px; line-height: 1.8;">
+    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+  </p>
 </p>
+
+</div>
 
 ---
 
@@ -108,50 +118,74 @@
 </p>
 
 ---
-
 ## 🚀 Proyectos Destacados
 
 ### 🚗 Concesionario Web
-
 **Proyecto colaborativo desarrollado durante mi formación.** Aplicación web para catálogo y gestión de vehículos.
 
 **Mi participación:** Desarrollo del backend con **Java y Spring Boot**, encargándome de la lógica de negocio, gestión de datos y API REST. El frontend fue desarrollado junto con mis compañeros.
 
-**Tecnologías:** React, Spring Boot, JavaScript, Java
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 🔗 [Ver repositorio](https://github.com/AmerMiracle0230/concesionario-web)
 
 ---
 
 ### 📋 Gestor de Tareas
-
 Proyecto personal en desarrollo para practicar Java, Spring Boot y bases de datos.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 🔗 [Ver repositorio](https://github.com/AmerMiracle0230/gestor-tareas)
 
 ---
 
 ### 💰 Gestor de Gastos
-
 Proyecto desarrollado durante mi formación utilizando Kotlin.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 🔗 [Ver repositorio](https://github.com/AmerMiracle0230/GestorGastos)
 
 ---
 
 📂 **Ver todos mis proyectos:** [GitHub Repositories](https://github.com/AmerMiracle0230?tab=repositories)
-
 ---
 
 ## 🌱 Enfoque Actual
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+        <br><strong>Java</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+        <br><strong>Spring Boot</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+        <br><strong>React</strong>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+        <br><strong>PostgreSQL</strong>
+      </td>
+    </tr>
+  </table>
 </p>
