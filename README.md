@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a3e,200:2d2b55&height=300&section=header&text=Juan%20Parhuayo&fontSize=75&fontColor=6C63FF&desc=🎓%20Graduado%20en%20DAM%20%7C%20Desarrollador%20Backend&descSize=20&descColor=cccccc&fontAlignY=35&descAlignY=55&animation=fadeIn" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a4a&height=160&section=header&text={%20Juan%20Parhuayo%20}&fontSize=46&fontColor=58a6ff&desc=[%20Graduado%20en%20DAM%20%7C%20Desarrollador%20Backend%20]&descSize=14&descColor=8b949e&stroke=58a6ff&strokeWidth=1&fontAlignY=35&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
 </p>
-
-
-  
----
 ## 👨‍💻 Sobre mí
 
 <div style="background: #f8f9fa; padding: 25px; border-radius: 15px; border-left: 5px solid #6C63FF;">
@@ -15,15 +11,15 @@
   <h3>🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong></h3>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.
+    Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos <br> personales y practicando especialmente desarrollo backend.
   </p>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.
+    También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido <br> durante mi formación.
   </p>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi <br> carrera profesional como desarrollador.
   </p>
 </p>
 
@@ -133,7 +129,11 @@
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-🔗 [Ver repositorio](https://github.com/AmerMiracle0230/concesionario-web)
+<p align="right">
+  <a href="https://github.com/AmerMiracle0230/concesionario-web">
+    <img src="https://img.shields.io/badge/🔗_Ver_Repositorio-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -143,10 +143,14 @@ Proyecto personal en desarrollo para practicar Java, Spring Boot y bases de dato
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-🔗 [Ver repositorio](https://github.com/AmerMiracle0230/gestor-tareas)
+<p align="right">
+  <a href="https://github.com/AmerMiracle0230/gestor-tareas">
+    <img src="https://img.shields.io/badge/🔗_Ver_Repositorio-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -158,13 +162,21 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-🔗 [Ver repositorio](https://github.com/AmerMiracle0230/GestorGastos)
+<p align="right">
+  <a href="https://github.com/AmerMiracle0230/GestorGastos">
+    <img src="https://img.shields.io/badge/🔗_Ver_Repositorio-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-📂 **Ver todos mis proyectos:** [GitHub Repositories](https://github.com/AmerMiracle0230?tab=repositories)
----
+<p align="center">
+  <a href="https://github.com/AmerMiracle0230?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_Ver_Todos_los_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
+---
 ## 🌱 Enfoque Actual
 
 <p align="center">
