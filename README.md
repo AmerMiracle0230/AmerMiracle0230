@@ -1,4 +1,4 @@
-<h1 align="center">Juan Parhuayo</h1>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Juan%20Parhuayo&fontSize=60&fontAlignY=40&desc=Desarrollador%20Multiplataforma&descAlignY=60" width="100%" alt="Header"/>
@@ -23,7 +23,7 @@ También sigo practicando <strong>frontend</strong>, bases de datos y otras tecn
 </td>
 
   <td width="30%" align="center" valign="middle">
-      <img src="giphy.gif" width="200" alt="Programando"/>
+      <img src="3oibd39gysz21.gif" width="300" alt="Programando"/>
     </td>
   </tr>
 </table>
