@@ -171,14 +171,18 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
 
 <p align="center">
   <a href="https://github.com/AmerMiracle0230?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Ver_Todos_los_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/_Ver_Todos_los_Proyectos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=6C63FF&color=181717&logoSize=auto" />
   </a>
 </p>
 
-## 🌱 Enfoque Actual
+## 💡 Enfoque Actual
 
-Actualmente estoy reforzando mis conocimientos en **Java y Spring Boot** para el desarrollo backend, trabajando con bases de datos como **PostgreSQL y MySQL**.
-
-🎯 Mi objetivo a futuro es especializarme en **Inteligencia Artificial y Big Data**, un campo que me apasiona y donde quiero combinar mis habilidades de desarrollo con el análisis de datos para crear soluciones tecnológicas avanzadas.
-
-💡 Por ahora, sigo creando proyectos personales para mejorar mis habilidades y acercarme a esa meta.
+<p align="left">
+  <img align="right" src="3oibd39gysz21.gif" width="180" alt="Programando" style="margin-left: 30px; border-radius: 10px;" />
+  
+  Actualmente estoy reforzando mis conocimientos en <strong>Java y Spring Boot</strong> para el desarrollo backend, trabajando con bases de datos como <strong>PostgreSQL y MySQL</strong>.
+  
+  🎯 Mi objetivo a futuro es especializarme en <strong>Inteligencia Artificial y Big Data</strong>, un campo que me apasiona y donde quiero combinar mis habilidades de desarrollo con el análisis de datos para crear soluciones tecnológicas avanzadas.
+  
+  💡 Por ahora, sigo creando proyectos personales para mejorar mis habilidades y acercarme a esa meta.
+</p>
