@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1b2a4a&height=160&section=header&text={%20Juan%20Parhuayo%20}&fontSize=46&fontColor=58a6ff&desc=[%20Graduado%20en%20DAM%20%7C%20Desarrollador%20Backend%20]&descSize=14&descColor=8b949e&stroke=58a6ff&strokeWidth=1&fontAlignY=35&descAlignY=55&animation=twinkling" width="100%" alt="Header"/>
 </p>
+
 ## 👨‍💻 Sobre mí
 
 <div style="background: #f8f9fa; padding: 25px; border-radius: 15px; border-left: 5px solid #6C63FF;">
@@ -25,7 +26,6 @@
 
 </div>
 
----
 
 ## 🛠️ Stack Tecnológico
 
@@ -113,7 +113,7 @@
   </table>
 </p>
 
----
+
 ## 🚀 Proyectos Destacados
 
 ### 🚗 Concesionario Web
@@ -168,7 +168,6 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
   </a>
 </p>
 
----
 
 <p align="center">
   <a href="https://github.com/AmerMiracle0230?tab=repositories">
@@ -179,25 +178,8 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
 ---
 ## 🌱 Enfoque Actual
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-        <br><strong>Java</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-        <br><strong>Spring Boot</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-        <br><strong>React</strong>
-      </td>
-      <td align="center" width="120">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-        <br><strong>PostgreSQL</strong>
-      </td>
-    </tr>
-  </table>
-</p>
+Actualmente estoy reforzando mis conocimientos en **Java y Spring Boot** para el desarrollo backend, trabajando con bases de datos como **PostgreSQL y MySQL**.
+
+🎯 Mi objetivo a futuro es especializarme en **Inteligencia Artificial y Big Data**, un campo que me apasiona y donde quiero combinar mis habilidades de desarrollo con el análisis de datos para crear soluciones tecnológicas avanzadas.
+
+💡 Por ahora, sigo creando proyectos personales para mejorar mis habilidades y acercarme a esa meta.
