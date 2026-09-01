@@ -175,7 +175,6 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
   </a>
 </p>
 
----
 ## 🌱 Enfoque Actual
 
 Actualmente estoy reforzando mis conocimientos en **Java y Spring Boot** para el desarrollo backend, trabajando con bases de datos como **PostgreSQL y MySQL**.
