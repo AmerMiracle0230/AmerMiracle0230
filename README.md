@@ -8,16 +8,22 @@
 
 ## 👨‍💻 Sobre mí
 
-<table>
+<table border="0">
   <tr>
-    <td width="70%">
-      🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br><br>
-      Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.<br><br>
-      También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.<br><br>
-      🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Programando"/>
+    <td width="70%" valign="top">
+
+🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong><br><br>
+
+Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.<br><br>
+
+También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.<br><br>
+
+🎯 Mi objetivo es seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+
+</td>
+
+  <td width="30%" align="center" valign="middle">
+      <img src="giphy.gif" width="200" alt="Programando"/>
     </td>
   </tr>
 </table>
@@ -137,14 +143,6 @@ Proyecto personal en desarrollo para practicar Java, Spring Boot y bases de dato
 Proyecto desarrollado durante mi formación utilizando Kotlin.
 
 🔗 [Ver repositorio](https://github.com/AmerMiracle0230/GestorGastos)
-
----
-
-### 🤖 Discord Bot
-
-Proyecto para practicar JavaScript.
-
-🔗 [Ver repositorio](https://github.com/AmerMiracle0230/DiscordBot)
 
 ---
 
