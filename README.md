@@ -12,15 +12,15 @@
   <h3>🎓 Graduado en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong></h3>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos <br> personales y practicando especialmente desarrollo backend.
+    Actualmente estoy reforzando mis conocimientos de <strong>Java y Spring Boot</strong>, creando proyectos personales y practicando especialmente desarrollo backend.
   </p>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido <br> durante mi formación.
+    También sigo practicando <strong>frontend</strong>, bases de datos y otras tecnologías que he aprendido durante mi formación.
   </p>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi <br> carrera profesional como desarrollador.
+    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
   </p>
 </p>
 
