@@ -178,7 +178,7 @@ Proyecto desarrollado durante mi formación utilizando Kotlin.
 ## 💡 Enfoque Actual
 
 <p align="left">
-  <img align="right" src="3oibd39gysz21.gif" width="180" alt="Programando" style="margin-left: 30px; border-radius: 10px;" />
+  <img align="right" src="giphy.gif" width="180" alt="Programando" style="margin-left: 30px; border-radius: 10px;" />
   
   Actualmente estoy reforzando mis conocimientos en <strong>Java y Spring Boot</strong> para el desarrollo backend, trabajando con bases de datos como <strong>PostgreSQL y MySQL</strong>.
   
