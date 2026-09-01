@@ -20,7 +20,7 @@
   </p>
   
   <p style="font-size: 18px; line-height: 1.8;">
-    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y comenzar mi carrera profesional como desarrollador.
+    🎯 <strong>Mi objetivo:</strong> Seguir aprendiendo, crear proyectos cada vez más completos y dar mis primeros pasos profesionales como desarrollador.
   </p>
 </p>
 
